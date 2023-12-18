@@ -1,492 +1,660 @@
 #### Listing oprom versions in 101.1732 ####
 
 101.1732/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 09 04 00 00 00 00
 
 101.1732/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 19 04 00 00 00 00
 
 #### Listing firmware versions in 101.1732 ####
 
 101.1732/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2243
 
 101.1732/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2036
 
 #### Listing oprom versions in 101.3268 ####
 
 101.3268/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0C 04 00 00 00 00
 
 101.3268/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 #### Listing firmware versions in 101.3268 ####
 
 101.3268/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2295
 
 101.3268/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2056
 
 101.3268/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3185
 
 #### Listing oprom versions in 101.3276 ####
 
 101.3276/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0C 04 00 00 00 00
 
 101.3276/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 #### Listing firmware versions in 101.3276 ####
 
 101.3276/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2307
 
 101.3276/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2056
 
 101.3276/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3193
 
 #### Listing oprom versions in 101.3277 ####
 
 101.3277/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 #### Listing firmware versions in 101.3277 ####
 
 101.3277/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2311
 
 101.3277/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2056
 
 101.3277/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3193
 
 #### Listing oprom versions in 101.3430 ####
 
 101.3430/dg1_c_oprom.rom
 
 101.3430/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 23 04 00 00 00 00
 
 #### Listing firmware versions in 101.3430 ####
 
 101.3430/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.3430/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2059
 
 101.3430/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 101.3430/fw-data.zip
 
 #### Listing oprom versions in 101.3490 ####
 
 101.3490/dg2_d_oprom512.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3490/dg2_d_opromASRock.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3490/dg1_c_oprom.rom
 
 101.3490/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 23 04 00 00 00 00
 
 101.3490/dg2_d_opromGunnir.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3490/dg2_d_oprom448.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 #### Listing firmware versions in 101.3490 ####
 
 101.3490/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.3490/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2059
 
 101.3490/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 101.3490/fw-data.zip
 
 #### Listing oprom versions in 101.3793 ####
 
 101.3793/dg2_d_oprom512.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3793/dg2_d_opromASRock.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3793/dg1_c_oprom.rom
 
 101.3793/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 23 04 00 00 00 00
 
 101.3793/dg2_d_opromGunnir.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3793/dg2_d_oprom448.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 #### Listing firmware versions in 101.3793 ####
 
 101.3793/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.3793/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2059
 
 101.3793/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 101.3793/fw-data.zip
 
 #### Listing oprom versions in 101.3802 ####
 
 101.3802/dg2_d_oprom512.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3802/dg2_d_opromASRock.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3802/dg1_c_oprom.rom
 
 101.3802/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 23 04 00 00 00 00
 
 101.3802/dg2_d_opromGunnir.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3802/dg2_d_oprom448.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 #### Listing firmware versions in 101.3802 ####
 
 101.3802/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.3802/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2059
 
 101.3802/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 101.3802/fw-data.zip
 
 #### Listing oprom versions in 101.3959 ####
 
 101.3959/dg2_d_oprom512.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3959/dg2_d_opromASRock.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3959/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 101.3959/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 23 04 00 00 00 00
 
 101.3959/dg2_d_opromGunnir.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3959/dg2_d_oprom448.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 #### Listing firmware versions in 101.3959 ####
 
 101.3959/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.3959/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2060
 
 101.3959/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 101.3959/fw-data.zip
 
 #### Listing oprom versions in 101.3962 ####
 
 101.3962/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 101.3962/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 24 04 00 00 00 00
 
 #### Listing firmware versions in 101.3962 ####
 
 101.3962/dg2_gfx_fwupdate_A0_SOC2.bin
+Image:  FW Version: DG02_2.1028
 
 101.3962/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1040
 
 101.3962/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2328
 
 101.3962/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2060
 
 101.3962/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3224
 
 101.3962/dg2_gfx_fwupdate_B0_SOC1.bin
+Image:  FW Version: DG02_1.2054
 
 101.3962/fwdata.zip
 
 #### Listing oprom versions in 101.3975 ####
 
 101.3975/dg2_d_oprom512.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3975/dg2_d_opromASRock.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3975/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 101.3975/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 23 04 00 00 00 00
 
 101.3975/dg2_d_opromGunnir.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 101.3975/dg2_d_oprom448.rom
+OPROM CODE Version: 14 00 1D 04 00 00 00 00
 
 #### Listing firmware versions in 101.3975 ####
 
 101.3975/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.3975/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2060
 
 101.3975/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 101.3975/fw-data.zip
 
 #### Listing oprom versions in 101.4032 ####
 
 101.4032/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4032 ####
 
 101.4032/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.4032/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2060
 
 101.4032/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4090 ####
 
 101.4090/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4090 ####
 
 101.4090/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.4090/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2060
 
 101.4090/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4091 ####
 
 101.4091/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4091 ####
 
 101.4091/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.4091/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2060
 
 101.4091/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4123 ####
 
 101.4123/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4123 ####
 
 101.4123/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.4123/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2060
 
 101.4123/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4125 ####
 
 101.4125/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4125 ####
 
 101.4125/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2314
 
 101.4125/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2060
 
 101.4125/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4146 ####
 
 101.4146/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4146 ####
 
 101.4146/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2323
 
 101.4146/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4146/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4148 ####
 
 101.4148/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4148 ####
 
 101.4148/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2323
 
 101.4148/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4148/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4255 ####
 
 101.4255/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4255 ####
 
 101.4255/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2323
 
 101.4255/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4255/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4257 ####
 
 101.4257/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4257 ####
 
 101.4257/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2323
 
 101.4257/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4257/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4311 ####
 
 #### Listing firmware versions in 101.4311 ####
 
 101.4311/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2323
 
 101.4311/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4311/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4314 ####
 
 #### Listing firmware versions in 101.4314 ####
 
 101.4314/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2323
 
 101.4314/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4314/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4335 ####
 
 #### Listing firmware versions in 101.4335 ####
 
 101.4335/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2323
 
 101.4335/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4335/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3206
 
 #### Listing oprom versions in 101.4369 ####
 
 101.4369/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4369 ####
 
 101.4369/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2339
 
 101.4369/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4369/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3251
 
 #### Listing oprom versions in 101.4382 ####
 
 101.4382/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 0F 04 00 00 00 00
 
 #### Listing firmware versions in 101.4382 ####
 
 101.4382/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2339
 
 101.4382/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4382/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3251
 
 #### Listing oprom versions in 101.4499 ####
 
 101.4499/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 #### Listing firmware versions in 101.4499 ####
 
 101.4499/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2345
 
 101.4499/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4499/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3252
 
 #### Listing oprom versions in 101.4502 ####
 
 101.4502/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 #### Listing firmware versions in 101.4502 ####
 
 101.4502/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2345
 
 101.4502/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4502/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3252
 
 #### Listing oprom versions in 101.4514 ####
 
 101.4514/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 #### Listing firmware versions in 101.4514 ####
 
 101.4514/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2345
 
 101.4514/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4514/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3252
 
 #### Listing oprom versions in 101.4575 ####
 
 101.4575/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 #### Listing firmware versions in 101.4575 ####
 
 101.4575/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4575/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4575/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 #### Listing oprom versions in 101.4576 ####
 
 101.4576/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 #### Listing firmware versions in 101.4576 ####
 
 101.4576/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4576/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4576/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 #### Listing oprom versions in 101.4577 ####
 
 101.4577/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 #### Listing firmware versions in 101.4577 ####
 
 101.4577/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4577/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4577/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4577/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 #### Listing oprom versions in 101.4578 ####
 
 101.4578/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 #### Listing firmware versions in 101.4578 ####
 
 101.4578/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4578/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4578/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4578/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 #### Listing oprom versions in 101.4644 ####
 
 101.4644/dg2_d_oprom_acerg100.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4644/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4644/dg2_d_oprom_asr750.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4644/dg2_d_oprom_asr770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4644/dg2_d_oprom_acer770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4644/dg2_d_oprom_IBC448.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4644/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4644/dg2_d_oprom_asr380.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4644/dg2_d_oprom_IBC512.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4644 ####
 
 101.4644/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4644/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4644/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4644/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 101.4644/dg2_pcon_fw.bin
 
@@ -495,32 +663,45 @@
 #### Listing oprom versions in 101.4669 ####
 
 101.4669/dg2_d_oprom_acerg100.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4669/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4669/dg2_d_oprom_asr750.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4669/dg2_d_oprom_asr770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4669/dg2_d_oprom_acer770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4669/dg2_d_oprom_IBC448.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4669/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4669/dg2_d_oprom_asr380.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4669/dg2_d_oprom_IBC512.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4669 ####
 
 101.4669/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4669/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4669/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4669/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 101.4669/dg2_pcon_fw.bin
 
@@ -529,32 +710,45 @@
 #### Listing oprom versions in 101.4672 ####
 
 101.4672/dg2_d_oprom_acerg100.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4672/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4672/dg2_d_oprom_asr750.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4672/dg2_d_oprom_asr770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4672/dg2_d_oprom_acer770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4672/dg2_d_oprom_IBC448.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4672/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4672/dg2_d_oprom_asr380.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4672/dg2_d_oprom_IBC512.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4672 ####
 
 101.4672/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4672/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4672/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4672/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 101.4672/dg2_pcon_fw.bin
 
@@ -563,32 +757,45 @@
 #### Listing oprom versions in 101.4676 ####
 
 101.4676/dg2_d_oprom_acerg100.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4676/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4676/dg2_d_oprom_asr750.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4676/dg2_d_oprom_asr770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4676/dg2_d_oprom_acer770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4676/dg2_d_oprom_IBC448.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4676/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4676/dg2_d_oprom_asr380.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4676/dg2_d_oprom_IBC512.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4676 ####
 
 101.4676/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4676/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4676/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4676/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 101.4676/dg2_pcon_fw.bin
 
@@ -597,34 +804,48 @@
 #### Listing oprom versions in 101.4824 ####
 
 101.4824/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4824/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4824/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4824/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4824/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4824/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4824/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4824/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4824/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4824/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4824 ####
 
 101.4824/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4824/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4824/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4824/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 101.4824/dg2_pcon_fw.bin
 
@@ -633,34 +854,48 @@
 #### Listing oprom versions in 101.4826 ####
 
 101.4826/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4826/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4826/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4826/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4826/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4826/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4826/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4826/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4826/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4826/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4826 ####
 
 101.4826/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4826/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4826/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4826/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 101.4826/dg2_pcon_fw.bin
 
@@ -669,34 +904,48 @@
 #### Listing oprom versions in 101.4885 ####
 
 101.4885/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4885/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4885/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4885/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4885/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4885/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4885/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4885/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4885/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4885/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4885 ####
 
 101.4885/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4885/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4885/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4885/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 101.4885/dg2_pcon_fw.bin
 
@@ -705,34 +954,48 @@
 #### Listing oprom versions in 101.4887 ####
 
 101.4887/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4887/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4887/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4887/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4887/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4887/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4887/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4887/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4887/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4887/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4887 ####
 
 101.4887/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4887/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4887/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4887/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 101.4887/dg2_pcon_fw.bin
 
@@ -741,36 +1004,51 @@
 #### Listing oprom versions in 101.4900 ####
 
 101.4900/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4900/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4900/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4900/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4900/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4900/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4900/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4900/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4900/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4900/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4900/dg2_d_asus_dual-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4900 ####
 
 101.4900/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1073
 
 101.4900/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2347
 
 101.4900/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4900/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3253
 
 101.4900/dg2_pcon_fw.bin
 
@@ -779,36 +1057,51 @@
 #### Listing oprom versions in 101.4952 ####
 
 101.4952/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4952/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 101.4952/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4952/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4952/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4952/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4952/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4952/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4952/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4952/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4952/dg2_d_asus_dual-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4952 ####
 
 101.4952/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1089
 
 101.4952/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2353
 
 101.4952/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4952/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3257
 
 101.4952/dg2_pcon_fw.bin
 
@@ -817,38 +1110,54 @@
 #### Listing oprom versions in 101.4953 ####
 
 101.4953/dg2_d_gunnir_photon-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4953/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4953/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4953/dg2_d_gunnir_flux-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4953/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4953/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4953/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4953/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4953/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4953/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4953/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4953/dg2_d_asus_dual-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4953 ####
 
 101.4953/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1089
 
 101.4953/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2353
 
 101.4953/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4953/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3257
 
 101.4953/dg2_pcon_fw.bin
 
@@ -857,38 +1166,54 @@
 #### Listing oprom versions in 101.4972 ####
 
 101.4972/dg2_d_gunnir_photon-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4972/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4972/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4972/dg2_d_gunnir_flux-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4972/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4972/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4972/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4972/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4972/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.4972/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4972/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.4972/dg2_d_asus_dual-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.4972 ####
 
 101.4972/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1089
 
 101.4972/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2353
 
 101.4972/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.4972/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3257
 
 101.4972/dg2_pcon_fw.bin
 
@@ -897,38 +1222,54 @@
 #### Listing oprom versions in 101.5074 ####
 
 101.5074/dg2_d_gunnir_photon-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5074/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5074/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5074/dg2_d_gunnir_flux-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5074/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.5074/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.5074/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.5074/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5074/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.5074/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5074/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5074/dg2_d_asus_dual-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.5074 ####
 
 101.5074/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1089
 
 101.5074/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2353
 
 101.5074/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.5074/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3257
 
 101.5074/dg2_pcon_fw.bin
 
@@ -937,38 +1278,54 @@
 #### Listing oprom versions in 101.5081 ####
 
 101.5081/dg2_d_gunnir_photon-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5081/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5081/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5081/dg2_d_gunnir_flux-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5081/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.5081/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.5081/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.5081/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5081/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 101.5081/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5081/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 101.5081/dg2_d_asus_dual-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in 101.5081 ####
 
 101.5081/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1089
 
 101.5081/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2353
 
 101.5081/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 101.5081/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3257
 
 101.5081/dg2_pcon_fw.bin
 
@@ -981,58 +1338,84 @@
 #### Listing oprom versions in Latest ####
 
 Latest/dg2_d_oprom_acerg100.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_gunnir_photon-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg1_c_oprom.rom
+OPROM CODE Version: 13 00 10 04 00 00 00 00
 
 Latest/dg2_d_oprom_asr750.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_oprom_asr770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_gunnir_flux-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 Latest/dg2_d_oprom_acer770.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_oprom_IBC448.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_c_oprom.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 Latest/dg2_d_oprom_asr380.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 Latest/dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
 Latest/dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_asus_dual-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 Latest/dg2_d_oprom_IBC512.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 #### Listing firmware versions in Latest ####
 
 Latest/dg2_gfx_fwupdate_A0_SOC2.bin
+Image:  FW Version: DG02_2.1028
 
 Latest/dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1089
 
 Latest/dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2353
 
 Latest/dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
 
 Latest/dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3257
 
 Latest/dg2_gfx_fwupdate_B0_SOC1.bin
+Image:  FW Version: DG02_1.2054
 
 Latest/dg2_pcon_fw.bin
 
