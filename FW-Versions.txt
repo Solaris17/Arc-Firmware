@@ -1479,6 +1479,9 @@ OPROM CODE Version: 14 00 28 04 00 00 00 00
 dg2_d_asrock_challenger-a380_oprom-data.rom
 OPROM CODE Version: 14 00 28 04 00 00 00 00
 
+dg2_d_intel_serpent-canyon-a770m_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
+
 dg2_d_oprom_asr770.rom
 OPROM CODE Version: 14 00 28 04 00 00 00 00
 
@@ -1509,7 +1512,13 @@ OPROM CODE Version: 14 00 28 04 00 00 00 00
 dg2_d_intel_a750_oprom-data.rom
 OPROM CODE Version: 14 00 2C 04 00 00 00 00
 
+dg2_d_hp_victus-a380_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
+
 dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
+
+dg2_d_clevo_x270-a770m_oprom-data.rom
 OPROM CODE Version: 14 00 28 04 00 00 00 00
 
 dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
