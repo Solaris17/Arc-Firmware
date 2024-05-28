@@ -2175,6 +2175,65 @@ dg2_pcon_fw.bin
 
 fwdata.zip
 
+#### Listing oprom versions in 101.5534 ####
+
+dg2_d_gunnir_photon-a380_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_gunnir_flux-a770_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_intel_a770_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_intel_a750-cr2_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_c_oprom.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_intel_a750-gold_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_acer_predator-a380_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_intel_a750_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM CODE Version: 14 00 28 04 00 00 00 00
+
+dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_asus_dual-a380_oprom-data.rom
+OPROM CODE Version: 14 00 2C 04 00 00 00 00
+
+#### Listing firmware versions in 101.5534 ####
+
+dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1089
+
+dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2353
+
+dg1_gfx_fwupdate.bin
+Image:  FW Version: DG01_0.2069
+
+dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3257
+
+dg2_pcon_fw.bin
+
+fwdata.zip
+
 #### Listing oprom versions in .git ####
 
 #### Listing firmware versions in .git ####
