@@ -5910,6 +5910,70 @@ dg2_pcon_fw.bin
 
 fwdata.zip
 
+#### Listing oprom versions in 101.8331 ####
+
+dg2_c_oprom.rom
+OPROM CODE Version: 14 00 31 04 00 00 00 00
+
+#### Listing oprom-data versions in 101.8331 ####
+
+dg2_d_acer_predator-a380_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_acer_predator-bifrost-a770_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_asrock_challenger-a380_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_asrock_challenger-a750_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_asrock_phantom-gaming-a770_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_asus_dual-a380_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_gunnir_flux-a770_oprom-data.rom
+OPROM DATA Version: 14 00 31 04 01 00 00 00
+
+dg2_d_gunnir_photon-a380_oprom-data.rom
+OPROM DATA Version: 14 00 31 04 01 00 00 00
+
+dg2_d_intel_a750-cr2_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_intel_a750-gold_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_intel_a750_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+dg2_d_intel_a770_oprom-data.rom
+OPROM DATA Version: 14 00 2C 04 00 00 00 00
+
+#### Listing firmware versions in 101.8331 ####
+
+bmg_g21_fwupdate.bin
+Image:  FW Version: BMG__21.1174
+
+bmg_g21_fwupdate_golden.bin
+Image:  FW Version: BMG__21.1174
+
+dg2_gfx_fwupdate_SOC1.bin
+Image:  FW Version: DG02_1.3266
+
+dg2_gfx_fwupdate_SOC2.bin
+Image:  FW Version: DG02_2.2357
+
+dg2_gfx_fwupdate_SOC3.bin
+Image:  FW Version: DG02_3.1091
+
+dg2_pcon_fw.bin
+
+fwdata.zip
+
 #### Listing oprom versions in .git ####
 
 #### Listing oprom-data versions in .git ####
@@ -6001,10 +6065,10 @@ OPROM DATA Version: 14 00 28 04 00 00 00 00
 #### Listing firmware versions in Latest ####
 
 bmg_g21_fwupdate.bin
-Image:  FW Version: BMG__21.1137
+Image:  FW Version: BMG__21.1174
 
 bmg_g21_fwupdate_golden.bin
-Image:  FW Version: BMG__21.1137
+Image:  FW Version: BMG__21.1174
 
 dg1_gfx_fwupdate.bin
 Image:  FW Version: DG01_0.2069
