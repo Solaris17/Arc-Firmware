@@ -1,0 +1,2 @@
+https://teamdotexe.org/downloads/Intel-FW/101.8331/dg2_pcon_fw.bin
+https://teamdotexe.org/downloads/Intel-FW/101.8331/fwdata.zip
