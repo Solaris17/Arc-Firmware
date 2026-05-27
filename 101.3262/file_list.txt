@@ -1,0 +1,6 @@
+https://teamdotexe.org/downloads/Intel-FW/101.3262/dg2_c_oprom.rom
+https://teamdotexe.org/downloads/Intel-FW/101.3262/dg2_gfx_fwupdate_A0_SOC2.bin
+https://teamdotexe.org/downloads/Intel-FW/101.3262/dg2_gfx_fwupdate_B0_SOC1.bin
+https://teamdotexe.org/downloads/Intel-FW/101.3262/dg2_gfx_fwupdate_SOC1.bin
+https://teamdotexe.org/downloads/Intel-FW/101.3262/dg2_gfx_fwupdate_SOC2.bin
+https://teamdotexe.org/downloads/Intel-FW/101.3262/dg2_gfx_fwupdate_SOC3.bin

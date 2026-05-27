@@ -1,0 +1,15 @@
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg1_c_oprom.rom
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg1_gfx_fwupdate.bin
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_c_oprom.rom
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_d_oprom_acer770.rom
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_d_oprom_acerg100.rom
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_d_oprom_asr380.rom
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_d_oprom_asr750.rom
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_d_oprom_asr770.rom
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_d_oprom_IBC448.rom
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_d_oprom_IBC512.rom
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_gfx_fwupdate_SOC1.bin
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_gfx_fwupdate_SOC2.bin
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_gfx_fwupdate_SOC3.bin
+https://teamdotexe.org/downloads/Intel-FW/101.4672/dg2_pcon_fw.bin
+https://teamdotexe.org/downloads/Intel-FW/101.4672/fwdata.zip

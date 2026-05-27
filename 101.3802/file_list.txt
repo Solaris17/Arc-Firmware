@@ -1,0 +1,10 @@
+https://teamdotexe.org/downloads/Intel-FW/101.3802/dg1_c_oprom.rom
+https://teamdotexe.org/downloads/Intel-FW/101.3802/dg1_gfx_fwupdate.bin
+https://teamdotexe.org/downloads/Intel-FW/101.3802/dg2_c_oprom.rom
+https://teamdotexe.org/downloads/Intel-FW/101.3802/dg2_d_oprom448.rom
+https://teamdotexe.org/downloads/Intel-FW/101.3802/dg2_d_oprom512.rom
+https://teamdotexe.org/downloads/Intel-FW/101.3802/dg2_d_opromASRock.rom
+https://teamdotexe.org/downloads/Intel-FW/101.3802/dg2_d_opromGunnir.rom
+https://teamdotexe.org/downloads/Intel-FW/101.3802/dg2_gfx_fwupdate_SOC1.bin
+https://teamdotexe.org/downloads/Intel-FW/101.3802/dg2_gfx_fwupdate_SOC2.bin
+https://teamdotexe.org/downloads/Intel-FW/101.3802/fw-data.zip
